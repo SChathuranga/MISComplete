@@ -1,0 +1,97 @@
+!SESSION 2015-07-11 14:36:17.479 -----------------------------------------------
+eclipse.buildId=4.4.2.M20150204-1700
+java.version=1.8.0_45
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.standard.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.standard.product
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2015-07-11 14:37:40.662
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 1 10001 2015-07-11 14:37:40.662
+!MESSAGE Your original request has been modified.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2015-07-11 14:37:40.662
+!MESSAGE "Eclipse Plug-in Development Environment" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2015-07-11 14:37:40.662
+!MESSAGE "WindowBuilder GroupLayout Support" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2015-07-11 14:37:40.662
+!MESSAGE "Swing Designer Documentation" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2015-07-11 14:37:40.662
+!MESSAGE "SWT Designer SWT_AWT Support" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2015-07-11 14:37:40.662
+!MESSAGE "Marketplace Client" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2015-07-11 14:37:40.663
+!MESSAGE "Eclipse CVS Client" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2015-07-11 14:37:40.663
+!MESSAGE "WindowBuilder XML Core (requires Eclipse WTP/WST)" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2015-07-11 14:37:40.663
+!MESSAGE "SWT Designer Core" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2015-07-11 14:37:40.663
+!MESSAGE "WindowBuilder Core UI" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2015-07-11 14:37:40.663
+!MESSAGE "SWT Designer" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2015-07-11 14:37:40.663
+!MESSAGE "WindowBuilder Core Documentation" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2015-07-11 14:37:40.663
+!MESSAGE "SWT Designer XWT Support (requires Eclipse WTP/WST)" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2015-07-11 14:37:40.663
+!MESSAGE "WindowBuilder Core" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2015-07-11 14:37:40.663
+!MESSAGE "Eclipse Git Team Provider" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2015-07-11 14:37:40.663
+!MESSAGE "Eclipse Java Development Tools" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2015-07-11 14:37:40.663
+!MESSAGE "WindowBuilder Java Core" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2015-07-11 14:37:40.663
+!MESSAGE "SWT Designer Documentation" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2015-07-11 14:37:40.663
+!MESSAGE "Swing Designer" is already installed, so an update will be performed instead.
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 1 2015-07-11 14:37:40.663
+!MESSAGE Cannot complete the install because some dependencies are not satisfiable
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2015-07-11 14:37:40.663
+!MESSAGE org.eclipse.actf.visualization.ui.pdt.feature.group [1.3.0.R201506071315] cannot be installed in this environment because its filter is not applicable.
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2015-07-11 14:37:40.730
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 1 10001 2015-07-11 14:37:40.730
+!MESSAGE Your original request has been modified.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2015-07-11 14:37:40.730
+!MESSAGE "Eclipse Plug-in Development Environment" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2015-07-11 14:37:40.730
+!MESSAGE "WindowBuilder GroupLayout Support" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2015-07-11 14:37:40.730
+!MESSAGE "Swing Designer Documentation" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2015-07-11 14:37:40.730
+!MESSAGE "SWT Designer SWT_AWT Support" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2015-07-11 14:37:40.730
+!MESSAGE "Marketplace Client" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2015-07-11 14:37:40.730
+!MESSAGE "Eclipse CVS Client" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2015-07-11 14:37:40.730
+!MESSAGE "WindowBuilder XML Core (requires Eclipse WTP/WST)" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2015-07-11 14:37:40.730
+!MESSAGE "SWT Designer Core" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2015-07-11 14:37:40.730
+!MESSAGE "WindowBuilder Core UI" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2015-07-11 14:37:40.730
+!MESSAGE "SWT Designer" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2015-07-11 14:37:40.730
+!MESSAGE "WindowBuilder Core Documentation" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2015-07-11 14:37:40.730
+!MESSAGE "SWT Designer XWT Support (requires Eclipse WTP/WST)" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2015-07-11 14:37:40.730
+!MESSAGE "WindowBuilder Core" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2015-07-11 14:37:40.731
+!MESSAGE "Eclipse Git Team Provider" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2015-07-11 14:37:40.731
+!MESSAGE "Eclipse Java Development Tools" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2015-07-11 14:37:40.731
+!MESSAGE "WindowBuilder Java Core" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2015-07-11 14:37:40.731
+!MESSAGE "SWT Designer Documentation" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2015-07-11 14:37:40.731
+!MESSAGE "Swing Designer" is already installed, so an update will be performed instead.
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 1 2015-07-11 14:37:40.731
+!MESSAGE Cannot complete the install because some dependencies are not satisfiable
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2015-07-11 14:37:40.731
+!MESSAGE org.eclipse.actf.visualization.ui.pdt.feature.group [1.3.0.R201506071315] cannot be installed in this environment because its filter is not applicable.
